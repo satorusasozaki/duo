@@ -1,31 +1,153 @@
-![](https://chibicode.github.io/duo/static/images/og.jpg)
+<img class="roundrect" src="static/images/warm_rectangle.jpeg" alt="Satoru Sasozaki">
 
-**Duo** is a simple [Jekyll](http://jekyllrb.com/) theme. You can use duo for a single-page site or a simple blog.
+<!-- I am a
+* **iOS developer** based in San Francisco
+* **co-founder** <a href="https://www.eversummer.io/" target="\_blank">@**eversummer**</a>, an **AR camera startup** based in San Francisco
+* former **Natural Language Processing engineer intern** <a href="http://waygoapp.com/" target="\_blank">**@waygo**</a> (500 Startups alumni). -->
 
-- **Demo Page**: [https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
-- **Example Page:** [My React tutorial](https://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/).
-- **GitHub Repo:** [chibicode/duo](https://github.com/chibicode/duo)
+I'm an **iOS developer** and **co-founder** <a href="https://www.eversummer.io/" target="\_blank">@**eversummer**</a>, an **AR camera startup** based in San Francisco, CA. Previously, I worked at <a href="http://waygoapp.com/" target="\_blank">@**waygo**</a> (500 Startups alumni) as a **Natural Language Processing engineer**.
 
-<a class="github-button" href="https://github.com/chibicode/duo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star chibicode/duo on GitHub">Star</a>
+<!-- <br> -->
+<!-- <img src="images/current_circle.png" alt="Satoru Sasozaki" style="width:200px;height:200px;"> -->
 
-## Get Started
+## Projects
 
-```bash
-# Download and Install
-git clone https://github.com/chibicode/duo.git
-bundle install
+<!-- | Tables        | Are           |
+| ------------- |:-------------:|
+| <a href="" target="\_blank">**BLEU open source library**</a>       | Open Source library for evaluating quality of Machine Translation |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
-# Run
-bundle exec jekyll serve
-# open http://localhost:4000/duo
-```
+Markdown | Less | Pretty
+--- | --- | ---
+<a href="" target="\_blank">**BLEU open source library**</a> | Open Source library for evaluating quality of Machine Translation
+<a href="" target="\_blank">**iOS App Development course at UC Berkeley**</a> | Hosted an iOS App Development course for beginners at UC Berkeley.
+<!-- 20+ attendees learned how to make an iOS app in Swift. -->
+<!-- <a href="" target="\_blank">**Sekaibonsai.com**</a> | Online school for Bonsai trees -->
+<!-- <a href="" target="\_blank">**Solidpaper**</a> | asdd -->
 
-## Next Steps
 
-See: [Customize Duo](https://chibicode.github.io/duo/posts/customize).
+* <a href="http://127.0.0.1:4000/duo/posts/customize/" target="\_blank">**BLEU Open Source Library**</a>: Open Source library for evaluating quality of Machine Translation
+* <a href="http://127.0.0.1:4000/duo/posts/customize/" target="\_blank">**iOS App Development course at UC Berkeley**</a>: Hosted an iOS App Development course for beginners at UC Berkeley.
+<!-- 20+ attendees learned how to make an iOS app in Swift. -->
+* <a href="http://127.0.0.1:4000/duo/posts/customize/" target="\_blank">**Sekaibonsai.com**</a>:  Online school for Bonsai trees
+* <a href="http://127.0.0.1:4000/duo/posts/customize/" target="\_blank">**Solidpaper**</a>: Wallpaper iOS app
 
-## Like or Retweet Appreciated :)
+## Skills
+* **Swift** and **Objective-C** for iOS development
+* **OpenGL**, **Metal**, **Vision**, and **AVFoundation**
+* **Golang** and **C++** for Machine Learning and NLP
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Just published: Duo, A Simple Jekyll Theme.  <a href="https://t.co/G2kffR9e4U">https://t.co/G2kffR9e4U</a> <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">@jekyllrb</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/923156795824128000?ref_src=twsrc%5Etfw">October 25, 2017</a></blockquote>
+<!-- * I hosted a course for iOS development for beginners at **UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a>. -->
 
-<a href="https://github.com/chibicode/duo" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style><script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- ### I'm a close friend of
+* **Swift** and **Objective-C** for iOS development
+* **OpenGL**, **Metal**, **Vision**, and **AVFoundation**
+* **Golang** and **C++** for Machine Learning and NLP
+
+### Publications
+1. <a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">Why Evaluating Machine Translation Quality is Hard</a> (Sep, 2016)
+2. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f" target="\_blank">Walkthrough of the iOS app development lecture at UC Berkeley</a> (Apr, 2016) -->
+
+## Awards
+* Won the second prize at Business Plan Pitch Contest at Kwansei Gakuin University (Nov, 2013)
+* Won the award at Business Plan Pitch Contest at Osaka Government (Jan, 2014)
+
+## Satoru Sasozaki
+
+* I was born and raised in **Osaka, Japan** (Watch <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">this</a> if interested). I had lived there all my life until I moved to **San Francisco, California** in 2014. I'm a dog person and can't touch my nose with my tongue yet.
+* I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
+* I upload stuff I made on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
+* I watch <a href="https://www.youtube.com/watch?v=zB7MichlL1k&t=6s&index=2&list=PL58M0TOpcTUqDa4ioXDuhFT95W0hs8lOt" targe="\_blank">Key & Peele</a>.
+
+<a href="https://github.com/satorusasozaki" target="\_blank">Github</a> / <a href="https://twitter.com/satorusasozaki" target="\_blank">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki" target="\_blank">Medium</a> / <a href="https://www.behance.net/satorusasozaki" target="\_blank">Behance</a> / <a href="https://www.instagram.com/satorusasozaki/" target="\_blank">Instagram</a> / <a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a> / <a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
+
+<ruby>
+<rb><font size="6"><strong>哘崎　悟</strong></font></rb>
+<rp>（</rp>
+<rt>さそざき　さとる</rt>
+<rp>）</rp>
+</ruby>
+
+<font size="3">
+<p>
+シリコンバレーのスタートアップで活躍するソフトウェアエンジニアに憧れ、関西学院大学文学部を2014年に卒業後、英語力・プログラミング経験ゼロで、サンフランシスコに渡りました。
+</p>
+<p>
+2年制大学でコンピューターサイエンスを学びながら、<a href="http://500.co/" target="\_blank">500 Startups</a> 出身の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとして2016年5月にジョインし、機械学習アルゴリズムの開発を担当していました。
+</p>
+<p>
+<!-- 開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったパートナーとARカメラアプリのスタートアップをやっています。 -->
+現在はサンフランシスコでARカメラアプリのスタートアップをやっています。
+</p>
+<p>
+大阪市西成区出身。
+</p>
+</font>
+
+<center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
+
+
+<center><sub> © Copyright 2018 - Satoru Sasozaki </sub></center>
+
+<!-- ### Hello, nice to meet you
+
+* I was a former **natural language processing engineer intern** at <a href="http://waygoapp.com/" target="\_blank">Waygo </a> a 500 Startups alumni, working on expanding the statistic machine translation algorithms using machine learning.
+* You can find **the course for iOS development** that I hosted at UC Berkeley <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank">here</a>.
+
+<!-- * I hosted a course for iOS development for beginners at **UC Berkeley**. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f#.vppnlux9n" target="\_blank"> iOS Development Course at FEMTech UC Berkeley</a>. -->
+
+<!-- ### I'm a close friend of
+* **Swift** and **Objective-C** for iOS development
+* **OpenGL**, **Metal**, **Vision**, and **AVFoundation**
+* **Golang** and **C++** for Machine Learning and NLP
+
+### Publications
+1. <a href="http://blog.waygoapp.com/why-evaluating-machine-translation-quality-is-hard/" target="\_blank">Why Evaluating Machine Translation Quality is Hard</a> (Sep, 2016)
+2. <a href="https://medium.com/@satorusasozaki/ios-app-development-workshop-at-femtech-uc-berkeley-f8c303d1067f" target="\_blank">Walkthrough of the iOS app development lecture at UC Berkeley</a> (Apr, 2016)
+
+### Awards
+* Won the second prize at Business Plan Pitch Contest at Kwansei Gakuin University (Nov, 2013)
+* Won the award at Business Plan Pitch Contest at Osaka Government (Jan, 2014)
+
+### Background
+
+* I was born and raised in **Osaka, Japan** (Watch <a href="https://www.youtube.com/watch?v=Aq2HS2pviD8&t=48s" target="\_blank">this</a> if interested). I had lived there all my life until I moved to **San Francisco, California** in 2014. I'm a dog person and can't touch my nose with my tongue yet.
+
+### What else?
+
+* I blog on <a href="https://medium.com/@satorusasozaki" target="\_blank">medium</a>.
+* I upload stuff I made on <a href="https://www.behance.net/sasozakisa2463" target="\_blank">Behance</a>.
+* I watch <a href="https://www.youtube.com/watch?v=zB7MichlL1k&t=6s&index=2&list=PL58M0TOpcTUqDa4ioXDuhFT95W0hs8lOt" targe="\_blank">Key & Peele</a>.
+
+## Satoru Sasozaki
+
+<a href="https://github.com/satorusasozaki" target="\_blank">Github</a> / <a href="https://twitter.com/satorusasozaki" target="\_blank">Twitter</a> / <a href="https://www.linkedin.com/in/satorusasozaki" target="\_blank">LinkedIn</a> / <a href="https://medium.com/@satorusasozaki" target="\_blank">Medium</a> / <a href="https://www.behance.net/satorusasozaki" target="\_blank">Behance</a> / <a href="https://www.instagram.com/satorusasozaki/" target="\_blank">Instagram</a> / <a href="https://www.facebook.com/satoru.sasozaki" target="\_blank">Facebook</a> / <a href="mailto:sasozakisatoru@gmail.com" target="\_blank">sasozakisatoru@gmail.com</a>
+
+<ruby>
+<rb><font size="6"><strong>哘崎　悟</strong></font></rb>
+<rp>（</rp>
+<rt>さそざき　さとる</rt>
+<rp>）</rp>
+</ruby>
+
+<font size="3">
+<p>
+シリコンバレーのスタートアップで活躍するソフトウェアエンジニアに憧れ、関西学院大学文学部を2014年に卒業後、英語力・プログラミング経験ゼロで、サンフランシスコに渡りました。
+</p>
+<p>
+2年制大学でコンピューターサイエンスを学びながら、<a href="http://500.co/" target="\_blank">500 Startups</a> 出身の機械翻訳系スタートアップ <a href="http://waygoapp.com/" target="\_blank">Waygo</a> に自然言語処理エンジニアインターンとして2016年5月にジョインし、機械学習アルゴリズムの開発を担当していました。
+</p>
+<p>
+<!-- 開発者向けiOSプログラミングブートキャンプ <a href="https://codepath.com/iosbootcamp" target="\_blank"> CodePath iOS Development Bootcamp for existing developers</a> で出会ったパートナーとARカメラアプリのスタートアップをやっています。 -->
+<!-- 現在はサンフランシスコでARカメラアプリのスタートアップをやっています。
+</p>
+<p>
+大阪市西成区出身。
+</p>
+</font>
+
+<center><sub>This Jekyll theme is created by <a href="http://chibicode.com/" target="\_blank">Shu Uesugi</a>. Thanks, Shu-San!</sub></center>
+
+
+<center><sub> © Copyright 2018 - Satoru Sasozaki </sub></center> -->

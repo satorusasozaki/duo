@@ -2,21 +2,22 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Hi, I'm Sato
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://satorusasozaki.github.io"
 
+repository: satorusasozaki/duo
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
 baseurl: "/duo/"
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "satorusasozaki"
 author:
-  twitter: "chibicode"
+  twitter: "satorusasozaki"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
