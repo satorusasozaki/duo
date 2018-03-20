@@ -4,7 +4,7 @@
 @import "material-colors/dist/colors.css";
 
 .roundrect {
-  border-radius: 4px;
+  border-radius: 8px;
 }
 
 html {
